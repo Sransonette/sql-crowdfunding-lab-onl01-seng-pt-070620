@@ -20,4 +20,4 @@ INSERT INTO users (name, age) VALUES
 ('Ena', 24),
 ('Katie', 24);
 
-INSERT INTO projects VALUES
+
