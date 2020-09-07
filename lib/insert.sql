@@ -19,3 +19,4 @@ INSERT INTO users (name, age) VALUES
 ('Pacha', 5),
 ('Ena', 24),
 ('Katie', 24);
+
