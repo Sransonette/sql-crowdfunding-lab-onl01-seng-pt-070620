@@ -21,14 +21,14 @@ INSERT INTO users (name) VALUES
 ('Liz');
 
 
-INSERT INTO projects (name) VALUES
+INSERT INTO projects (title) VALUES
 ('Game'),
 ('Cook'),
 ('Dance'),
 ('Rap'),
 ('Sleep'),
-(''),
-('Game'),
-('Game'),
-('Game'),
-('Game');
+('DnD'),
+('Code'),
+('Cosplay'),
+('Hike'),
+('Photo');
