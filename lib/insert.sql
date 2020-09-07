@@ -33,7 +33,8 @@ INSERT INTO projects (title) VALUES
 ('Hike'),
 ('Photo');
 
-
+INSERT INTO pledges (amount) VALUES
+()
 
 
 
