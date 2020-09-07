@@ -1,2 +1,2 @@
-CREATE TABLE 
-  products (id INTEGER PRIMARY KEY);
+CREATE TABLE projects
+  (id INTEGER PRIMARY KEY);
