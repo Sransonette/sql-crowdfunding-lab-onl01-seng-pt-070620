@@ -32,3 +32,8 @@ INSERT INTO projects (title) VALUES
 ('Cosplay'),
 ('Hike'),
 ('Photo');
+
+
+
+
+
