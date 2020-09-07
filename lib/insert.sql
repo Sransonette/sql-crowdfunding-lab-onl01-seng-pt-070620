@@ -1,5 +1,5 @@
 INSERT INTO users (name, age) VALUES
-('Finnebar', 17),
+('Sean', 17),
 ('Bear', 6),
 ('Iguana', 4),
 ('Alex', 33),
